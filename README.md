@@ -5,7 +5,8 @@
 
 例子：
 <code>
- let label1 = KScrollLabel(frame: CGRect(x: 20, y: 200, width: UIScreen.main.bounds.width-40, height: 40)) </br>
+ let label1 = KScrollLabel(frame: CGRect(x: 20, y: 200, width: UIScreen.main.bounds.width-40, height: 40))
+
         label1.titleLabel.textColor = .white </br>
         label1.backgroundColor = .purple</br>
         label1.duration = 0.5</br>
