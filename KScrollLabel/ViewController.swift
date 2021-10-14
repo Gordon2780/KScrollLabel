@@ -21,7 +21,7 @@ class ViewController: UIViewController {
         let label1 = KScrollLabel()
         label1.frame = CGRect(x: 20, y: 200, width: UIScreen.main.bounds.width-40, height: 40)
         label1.textColor = .white
-        label.tailSpace = 30
+        label1.tailSpace = 30
         label1.backgroundColor = .purple
         label1.duration = 0.1
         label1.shadowColor = UIColor.magenta
